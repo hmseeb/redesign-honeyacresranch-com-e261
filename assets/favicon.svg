@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Honey Acres Ranch">
+  <rect width="64" height="64" rx="14" fill="#1E2B23"/>
+  <path d="M32 12c7 6 11 12 11 18a11 11 0 0 1-22 0c0-6 4-12 11-18z" fill="#C68A3B"/>
+  <path d="M32 20c4 4 6.5 7.6 6.5 10.6a6.5 6.5 0 0 1-13 0C25.5 27.6 28 24 32 20z" fill="#E0B072"/>
+  <path d="M20 46h24" stroke="#FAF6EF" stroke-width="3" stroke-linecap="round"/>
+  <path d="M24 52h16" stroke="#FAF6EF" stroke-width="3" stroke-linecap="round" opacity=".6"/>
+</svg>
